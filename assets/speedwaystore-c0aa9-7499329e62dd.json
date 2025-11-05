@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "speedwaystore-c0aa9",
+  "private_key_id": "7499329e62dd765cdc9951b46d1b5c8941cf3abf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOFZ8xAAY4Jv5R\nkWjk3Qz55KwYCtFawuGoVyLZVEYKD0KMm6frDmzvn3OReRBQwYyIa+xZSn5KujRg\n4ciFPPF1GPfZvgBtO92kShzfexGQXRuF0IvZxeSpwHHqWowr3OIW3lAUcyoqLhA2\nGu/T/JWb/7l/8UlhL6DGcywm8RlItcKiuQ3wD0hgAyCzqxjLcN9l0NkQXkP+lhXp\n/JHsobunPGEZND3lFdzM1dLjFlDqr1V5SkTU3x9v1JNXwhYceBDXzA4G3SNZXOWT\n9yUgXQJHgeqIH1f6oT/aeSJdhZ0cYIUXv8Nj4QN+alIyy1s3iE7jji3eem+vFrkt\n9yhYK/6RAgMBAAECggEAT0gxLHwqaFrT9xReSsGhttdav4sV3Hlhr84J6ZsKsN8L\nBqXxVTQBA7SPlNUCylaTln4SeI14hY4aDXV/G4cFCzv2Se3XIy7nR0d90Rn6+VNg\nfbvruXVw0T9oc7Su/UbmMc8H9r4RaBW9hdsaDa877T5Volt0k+9rRj1TrI2PYRFf\nBnirU1o/teYKLCpPo71ENrCiqCCalYMzNDYp40yNW+h/aV+wYjNjTex3WcoDun1Y\n1/M1QPE9UygIVlKgXHX77ZNE840oXsNDyc/q0zmTx1C5h2rQNQUTm+umPQhPKXkF\ngqdwOJdGyIiH7cU++vf7BGgHLA8PqimSPVGNZUICYwKBgQDsx4S9En6b59XLC1Jx\nkSFKdDAwfYLLfqhhaVnk4KXxLDWJisXlLIQECQpeTTFQ1ArICOxgKLy292uLSF2C\nBdffCf9EyP3TVjuQ5mmLBN3LAjwZzu/RDntHfknyB9+wBVeYNaxbSeGkw61k4xMy\n5moKp096zrzjBCt6AC/Iy4UPZwKBgQDe0DyEXWOkNTnmKbMPAhc/5Z9TKHq/4lM5\nfxfrbnWzHLxkUsrUMOX8On+zdGDpKAKJakD0Ag4WfEPakrNo7eFsSeBGncHy6KNJ\nkatDvRgN6R4lfCdFVM9JaXfCvnBZIzzclF6/kfvXyKFQfVfcxW3fJCeica+HsKiQ\nO1dXHRbfRwKBgQDpkFpQw5ieo88RziZSHm4vanNKsdQ+db8U7/4btroaL5jUB070\npLfI3z4aDZ0y9Sd5cMvygty8w02ThBuxMaBixBLJQFaZjLuPUKoV1wQNyDOO5cFM\ngDN9L4czty6hDHP+khtlpXhuthMprJD4qa86uRW+t4Y9jZRxcROxx4iGywKBgQCL\nquqUaloAX+D4VuFIIh5izlRN80zmpT9YBkP/L1GWQggRtxgvZKt1rVHJMsVgwdS9\nQJ6Qlg0wqRp7k4Pk3WB12eU9PryJwKxCfI5nusuuRJfCFY4kVqJNOVB6AZg5N+55\nsoOmACNmwvvjkX6XBCb4PhieKjdGjkVLi/cWw0RIFwKBgHnRCUR6F1dwC7VZ1EXc\nnqOvlV5GHDE6y+nB4GoMxXYwrptMKFT9FUSAGBxEXD4QYUivWGm0vyf+A6ADyzMB\n1i8fkq5vIqeh9jXzavvm6cehQ8NjjNl1F8oYsh+ZC8OCjv57sQXC3GeTxA2L8/ov\n6UKLeJEq7Lm8BLU+e5zh0GOQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "speedway@speedwaystore-c0aa9.iam.gserviceaccount.com",
+  "client_id": "110352454644248239398",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speedway%40speedwaystore-c0aa9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
