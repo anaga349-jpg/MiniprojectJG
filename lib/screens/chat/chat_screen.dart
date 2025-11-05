@@ -4,7 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:intl/intl.dart';
+import 'package:intl/intl.dart'; //
 
 /// ✅ หน้าสนทนาระหว่าง “ลูกค้า” และ “แอดมิน”
 /// ผู้ใช้จะส่งข้อความหรือภาพไปยัง collection ของตนเองใน Firestore.
